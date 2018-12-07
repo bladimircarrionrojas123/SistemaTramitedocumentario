@@ -1,0 +1,55 @@
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.exe.config
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.exe
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.pdb
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.xml
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.BusquedaDocumentos.resources
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.Login.resources
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.MDIPrincipal.resources
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.Resources.resources
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.RegistroDocumentos.resources
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.vbproj.GenerateResource.Cache
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.exe
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.xml
+C:\Users\EPIDEMIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.pdb
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.exe.config
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.exe
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.xml
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.pdb
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.BusquedaDocumentos.resources
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.Login.resources
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.MDIPrincipal.resources
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.RegistroDocumentos.resources
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.exe
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.pdb
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.xml
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.Resources.resources
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.RecuperarContraseña.resources
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\RdlCompile.cache
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\RdlCompile.compiled
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.ReportePorTipoDucumento.resources
+F:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.exe.config
+F:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.exe
+F:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.xml
+F:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.pdb
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.exe.config
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.exe
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.xml
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.pdb
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.vbprojResolveAssemblyReference.cache
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.BusquedaDocumentos.resources
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.Login.resources
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.MDIPrincipal.resources
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.Resources.resources
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.RecuperarContraseña.resources
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.RegistroDocumentos.resources
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.ReportePorTipoDucumento.resources
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.vbproj.GenerateResource.Cache
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.exe.licenses
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\RdlCompile.cache
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\RdlCompile.compiled
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.exe
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.pdb
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\bin\Debug\Tramite_Documentario.xml
+E:\PROYECTO DEL SOFTWARE DE TRÁMITE DOCUMENTARIO\PROYECTO MESA DE PARTES\Tramite_Documentario\Tramite_Documentario\obj\Debug\Tramite_Documentario.RegistroSolicitante.resources
